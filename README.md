@@ -15,6 +15,9 @@ To deploy this project:
 - Clone it using `git clone`
 - Open the HTML file on live server to see the website on localhost.
 
+## Performance Report:
+[![seo.png](https://i.postimg.cc/v8r0J5GK/seo.png)](https://postimg.cc/LhskfYYk)
+
 ## Deployment
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2b544ece-d26c-4bcc-8af9-963295c67bbd/deploy-status)](https://app.netlify.com/sites/anirudhpanda/deploys)
