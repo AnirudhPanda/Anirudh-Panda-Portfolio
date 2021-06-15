@@ -573,6 +573,10 @@ h6 {
   #preview {
     width: 260px;
   }
+
+  ul{
+    padding: 25px;
+  }
   .footer-icons img svg {
     margin: 5px;
     color: white;
