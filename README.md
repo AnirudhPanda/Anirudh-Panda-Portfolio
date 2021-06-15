@@ -7,7 +7,7 @@ A minimalistic Portfolio website to showcase my professional career.
 
 ![App Screenshot](https://i.postimg.cc/c4szDvMS/portfolio.webp)
 
-  
+##### **Here is the link to the [live demo](https://anirudhpanda.me/)**
 ## How to run?
 
 To deploy this project:
