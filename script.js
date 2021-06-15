@@ -152,7 +152,7 @@ const projects = [
     projectName: "Name That Project",
     projectDescription:
       "Name That Project is a simple application that allows you to search for a cool name for your next project/startup.",
-    projectImage: "images/projects/namethat.PNG",
+    projectImage: "images/projects/namethat.webp",
     codeLink: "https://github.com/AnirudhPanda/Name-That-Project",
     demoLink: "https://name-that-project.netlify.app/",
   },
@@ -160,7 +160,7 @@ const projects = [
     projectName: "Gradient Background Generator",
     projectDescription:
       "Gradient Background Generator using HTML,CSS AND JS. Display the initial CSS linear gradient property on page load.",
-    projectImage: "images/projects/p2.PNG",
+    projectImage: "images/projects/p2.webp",
     codeLink:
       "https://github.com/AnirudhPanda/ZTM--Web-Development/tree/master/Background-Generator",
     demoLink: "https://codepen.io/anirudhpanda/full/jOqqaBO",
@@ -169,7 +169,7 @@ const projects = [
     projectName: "3D Website using Three.js",
     projectDescription:
       "A Personal Project made with Three.js and deployed in gh-pages.",
-    projectImage: "images/projects/threejs.PNG",
+    projectImage: "images/projects/threejs.webp",
     codeLink: "https://github.com/AnirudhPanda/threejs-web",
     demoLink: "https://anirudhpanda.github.io/threejs-web/",
   },
@@ -177,7 +177,7 @@ const projects = [
     projectName: "PyWorks - Automation Scripts",
     projectDescription:
       "Python Automation Projects  InstaBot - Likes, Comments and Follows Using Hashtags",
-    projectImage: "images/projects/pyworks.png",
+    projectImage: "images/projects/pyworks.webp",
     codeLink: "https://github.com/AnirudhPanda/PyWorks",
     demoLink: "https://github.com/AnirudhPanda/PyWorks",
   },
@@ -185,14 +185,14 @@ const projects = [
     projectName: "FreeCodeCamp Web Projects",
     projectDescription:
       "HTML, CSS, Visual Design, Accessibility and Responsiveness",
-    projectImage: "images/projects/responsive.PNG",
+    projectImage: "images/projects/responsive.webp",
     codeLink: "https://github.com/AnirudhPanda/Responsive-Web-Design-Projects",
     demoLink: "https://codepen.io/anirudhpanda/full/BaKxyox",
   },
   {
     projectName: "Terminal Folio",
     projectDescription: "Terminal based Portfolio made using WinBox.js",
-    projectImage: "images/projects/terminal.png",
+    projectImage: "images/projects/terminal.webp",
     codeLink: "https://github.com/AnirudhPanda/terminal-folio",
     demoLink: "https://terminalfolio.netlify.app/",
   },
@@ -200,7 +200,7 @@ const projects = [
     projectName: "Theme Changer Portfolio",
     projectDescription:
       "Designed & Built the Portfolio using HTML CSS and Vanilla JavaScript to show my works.",
-    projectImage: "images/projects/portfolio.PNG",
+    projectImage: "images/projects/portfolio.webp",
     codeLink: " ",
     demoLink: " ",
   },
@@ -208,7 +208,7 @@ const projects = [
     projectName: "Dev Camp",
     projectDescription:
       "Built using Bootstrap 5, HTML, CSS and JavaScript. It is a completely responsive bootcamp website",
-    projectImage: "images/projects/devcamp.PNG",
+    projectImage: "images/projects/devcamp.webp",
     codeLink: "https://github.com/AnirudhPanda/Dev-Camp",
     demoLink: "https://dev-camp.netlify.app/",
   },
@@ -216,7 +216,7 @@ const projects = [
     projectName: "Hashnode Blogs Search",
     projectDescription:
       "This extension lets you search for any of Anirudh's blog articles from Hashnode from within VSCode.",
-    projectImage: "images/projects/extension.PNG",
+    projectImage: "images/projects/extension.webp",
     codeLink: "https://github.com/AnirudhPanda/Hashnode-Blog-Search",
     demoLink:
       "https://marketplace.visualstudio.com/items?itemName=AnirudhPanda.hashnode-blogs-search&ssr=false#overview",
@@ -225,7 +225,7 @@ const projects = [
     projectName: "Robofriends",
     projectDescription:
       "Designed & Built the webiste using React JS for my friends.",
-    projectImage: "images/projects/robo.PNG",
+    projectImage: "images/projects/robo.webp",
     codeLink: "https://github.com/AnirudhPanda/Robofriends",
     demoLink: "https://anirudhpanda.github.io/Robofriends/",
   },
@@ -233,7 +233,7 @@ const projects = [
     projectName: "Auto Connect LinkedIn",
     projectDescription:
       "A Script that allows you to automate the connection and withdrawl requests on LinkedIn.",
-    projectImage: "images/projects/autoconnect.png",
+    projectImage: "images/projects/autoconnect.webp",
     codeLink: "https://github.com/AnirudhPanda/Auto-Connect-LinkedIn",
     demoLink: "https://github.com/AnirudhPanda/Auto-Connect-LinkedIn",
   },
