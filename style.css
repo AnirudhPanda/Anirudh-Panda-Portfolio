@@ -564,14 +564,14 @@ h6 {
 
 @media screen and (max-width: 400px) {
   #preview-shadow {
-    max-width: 280px;
+    max-width: 265px;
     height: 180px;
     padding-left: 10px;
     padding-top: 10px;
   }
 
   #preview {
-    width: 280px;
+    width: 260px;
   }
   .footer-icons img svg {
     margin: 5px;
