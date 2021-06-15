@@ -337,6 +337,8 @@ h6 {
   margin: 0;
 }
 
+/* Projects */
+
 .source-code {
   display: flex;
   justify-content: space-between;
@@ -460,6 +462,8 @@ h6 {
   color: var(--mainText);
 }
 
+/* Contact Form */
+
 #contact-form {
   display: block;
   max-width: 600px;
@@ -513,6 +517,7 @@ h6 {
   cursor: pointer;
 }
 
+/* Footer */
 
 .footer {
   display: flex;

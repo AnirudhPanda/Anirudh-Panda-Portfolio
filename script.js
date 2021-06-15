@@ -201,8 +201,8 @@ const projects = [
     projectDescription:
       "Designed & Built the Portfolio using HTML CSS and Vanilla JavaScript to show my works.",
     projectImage: "images/projects/portfolio.webp",
-    codeLink: " ",
-    demoLink: " ",
+    codeLink: "https://anirudhpanda.me/",
+    demoLink: "https://github.com/AnirudhPanda/Anirudh-Panda-Portfolio ",
   },
   {
     projectName: "Dev Camp",
@@ -252,5 +252,4 @@ const createCards = () => {
   });
 };
 createCards();
-
 
