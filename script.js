@@ -1,6 +1,6 @@
 function setTheme(mode) {
   if (mode === "light") {
-    document.getElementById("theme-style").href = "style.css";
+    document.getElementById("theme-style").href = "css/style.css";
     document.getElementById("github").style.fill = "#181717";
     document.getElementById("linkedin").style.fill = "#0A66C2";
     document.getElementById("twitter").style.fill = "#1DA1F2";
@@ -8,7 +8,7 @@ function setTheme(mode) {
   }
 
   if (mode === "blue") {
-    document.getElementById("theme-style").href = "blue.css";
+    document.getElementById("theme-style").href = "css/blue.css";
     document.getElementById("github").style.fill = "white";
     document.getElementById("linkedin").style.fill = "white";
     document.getElementById("twitter").style.fill = "white";
@@ -16,7 +16,7 @@ function setTheme(mode) {
   }
 
   if (mode === "green") {
-    document.getElementById("theme-style").href = "green.css";
+    document.getElementById("theme-style").href = "css/green.css";
     document.getElementById("github").style.fill = "#181717";
     document.getElementById("linkedin").style.fill = "#0A66C2";
     document.getElementById("twitter").style.fill = "#1DA1F2";
@@ -24,7 +24,7 @@ function setTheme(mode) {
   }
 
   if (mode === "purple") {
-    document.getElementById("theme-style").href = "purple.css";
+    document.getElementById("theme-style").href = "css/purple.css";
     document.getElementById("github").style.fill = "#181717";
     document.getElementById("linkedin").style.fill = "#0A66C2";
     document.getElementById("twitter").style.fill = "#1DA1F2";
