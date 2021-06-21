@@ -17,8 +17,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hey Beautiful People on the Internet!! This is Anirudh Panda's Portfolio Website. I am a Student Developer and Open Source Developer" />
-    <meta name="keywords" content="PortfolioWebsite Anirudh Panda Developer WebDeveloperAnirudh AnirudhPanda Anirudh Panda Portfolio" />
+    <meta name="description"
+        content="Hey Beautiful People on the Internet!! This is Anirudh Panda's Portfolio Website. I am a Student Developer and Open Source Developer" />
+    <meta name="keywords"
+        content="PortfolioWebsite Anirudh Panda Developer WebDeveloperAnirudh AnirudhPanda Anirudh Panda Portfolio" />
     <meta name="author" content="Anirudh Panda" />
     <title>Anirudh Panda</title>
     <meta property="og:title" content="Anirudh Panda" />
@@ -38,6 +40,13 @@
 
     <link rel="stylesheet" href="css/style.css">
     <link id="theme-style" rel="stylesheet" href="" />
+    <link rel="manifest" href="manifest.json">
+    <script>
+        //if browser support service worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        };
+    </script>
 </head>
 
 <body>
@@ -130,9 +139,8 @@
                     <hr />
                     <h4>
                         My Expertise
-                        <br/>
-                        <a style="font-size: medium;" href="Anirudh Panda Resume.pdf"
-                            target="blank">View Resume 📌</a>
+                        <br />
+                        <a style="font-size: medium;" href="Anirudh Panda Resume.pdf" target="blank">View Resume 📌</a>
                     </h4>
                     <p>Currently devoting myself into MERN stack and DSA using JavaScript</p>
 
@@ -278,7 +286,8 @@
     </section>
     <section class="s1">
         <div class="main-container footer">
-            <h6 style="letter-spacing: 2px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Made with ❤️ by Anirudh</h6>
+            <h6 style="letter-spacing: 2px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Made with ❤️
+                by Anirudh</h6>
 
             <div class="footer-icons">
                 <a href="https://github.com/AnirudhPanda" target="blank"><svg id="github" viewBox="0 0 24 24">
