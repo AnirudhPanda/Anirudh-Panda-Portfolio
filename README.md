@@ -30,7 +30,8 @@ To deploy this project:
 
 ![JavaScript](https://img.shields.io/badge/frontend-javascript-blue.svg?logo=javascript&style=flat-square) 
 
-
+## Supports Progressive Web App
+ You can install the app version of the website on your laptop or mobiles
 
 ***Glad to see you here! Show some love by [starring](https://github.com/AnirudhPanda/Anirudh-Panda-Portfolio) this repo.***
 
