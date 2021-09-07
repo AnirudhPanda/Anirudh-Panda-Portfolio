@@ -149,6 +149,14 @@ class Project {
 
 const projects = [
   {
+    projectName: "Opentek",
+    projectDescription:
+      "If it is about Open Source, it is on Opentek. Runner-Up project in Auth0 hackathon.",
+    projectImage: "images/projects/opentek.webp",
+    codeLink: "https://github.com/Opentek-Org/opentek",
+    demoLink: "https://opentek.live/",
+  },
+  {
     projectName: "Name That Project",
     projectDescription:
       "Name That Project is a simple application that allows you to search for a cool name for your next project/startup.",
