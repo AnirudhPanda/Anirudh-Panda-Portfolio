@@ -154,7 +154,7 @@ const projects = [
       "If it is about Open Source, it is on Opentek. Runner-Up project in Auth0 hackathon.",
     projectImage: "images/projects/opentek.webp",
     codeLink: "https://github.com/Opentek-Org/opentek",
-    demoLink: "https://opentek.live/",
+    demoLink: "https://opentek.in/",
   },
   {
     projectName: "Name That Project",
@@ -163,6 +163,14 @@ const projects = [
     projectImage: "images/projects/namethat.webp",
     codeLink: "https://github.com/AnirudhPanda/Name-That-Project",
     demoLink: "https://name-that-project.netlify.app/",
+  },
+  {
+    projectName: "TEDxSITB",
+    projectDescription:
+      "TEDxSITB welcomes all the TEDx attendees to a city of 8 million populations that beautifully blends software engineers, doctors, rags-to-riches makers, leisure loving nobles, and avid thinkers together.",
+    projectImage: "images/projects/tedxsitb.png",
+    codeLink: "https://github.com/AnirudhPanda/TEDxSITB",
+    demoLink: "https://www.tedxsitb.com/",
   },
   {
     projectName: "Gradient Background Generator",
